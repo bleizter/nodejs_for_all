@@ -12,3 +12,8 @@ node js connection to mariadb, postgresql and mongodb
 2. buat file .env di root dan sesuaikan dengan konfigurasi pada device masing-masing (format .env sama seperti .env.example)
 3. npm install
 4. untuk running (npm run dev), pakai nodemon juga bisa
+
+# simple publish and subscribe kafka
+1. publish to kafka
+2. subscriber and save to MongoDB
+3. implement modul alias
